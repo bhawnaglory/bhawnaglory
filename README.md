@@ -19,11 +19,11 @@ Git • Docker • Linux
 In short, I’m trying to stay in the good books of machines… just in case the AI apocalypse turns out to be real
 
 ## Links
-LinkedIn — https://www.linkedin.com/in/bhawnanoti/  
-LeetCode — https://leetcode.com/u/not_bhawna/  
-Codeforces — https://codeforces.com/profile/bhawnanoti  
-Kaggle — https://www.kaggle.com/bhawnanoti  
-Portfolio — https://bhawna.live/
+LinkedIn —
+LeetCode — 
+Codeforces — 
+Kaggle — 
+Portfolio — 
 
 ---
 
