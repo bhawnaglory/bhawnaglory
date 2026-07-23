@@ -19,10 +19,10 @@ Git • Docker • Linux
 In short, I’m trying to stay in the good books of machines… just in case the AI apocalypse turns out to be real
 
 ## Links
-LinkedIn —
-LeetCode — 
-Codeforces — 
-Kaggle — 
+LinkedIn —  
+LeetCode —   
+Codeforces —   
+Kaggle —   
 Portfolio — 
 
 ---
